@@ -1,0 +1,7 @@
+{
+  "name": "42maru-rental-automation",
+  "private": true,
+  "scripts": {
+    "test": "node --test test/*.test.js"
+  }
+}
